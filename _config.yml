@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            XR class
+longtitle:        XR class
+author:           Yawen Li
+email:            yawen.li@telecom.fr
 description: >
-  Build Jekyll site with the GitBook style.
+  XR reshapes the world.
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -14,7 +14,7 @@ baseurl:          '/ClassXR'  # 确保这里是你 GitHub 仓库的名字
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: sighingnow/XR class 2024
 
 toc:
   enabled: true
