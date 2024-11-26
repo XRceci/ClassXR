@@ -6,18 +6,21 @@ permalink: /
 
 XR shapes the world!
 
-## Presentation of class
-
-xxx
-
 
 ## Schedule
 
-xxx
+Week 1: Introduction and History of VR
+Week 2: VR Technology and Perception
+Week 3: Input Devices and Interaction Techniques
+Week 4: Design Processes and Guidelines in VR
+Week 5-7: Augmented Reality (History, Technology, and Interaction)
+Week 8: Current Research Topics in VR/AR
+Week 9: Project Presentations
 
 ## Related projects
 
-xxx
+Lab Homework 2: Setup Unity
+![Unity Screenshot](https://github.com/XRceci/ClassXR/raw/master/assets/image/unity.png)
 
 
 [1]: https://pages.github.com
