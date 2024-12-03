@@ -22,6 +22,9 @@ Week 9: Project Presentations
 Lab Homework 2: Setup Unity
 ![Unity Screenshot](https://github.com/XRceci/ClassXR/raw/master/assets/image/unity.png)
 
+Lab Homework 3: Roll a ball
+![Unity Screenshot](https://github.com/XRceci/ClassXR/raw/master/assets/image/23.png)
+
 
 [1]: https://pages.github.com
 [2]: https://pages.github.com/themes
