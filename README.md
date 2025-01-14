@@ -5,17 +5,7 @@ permalink: /
 ---
 
 XR shapes the world!
-
-
-## Schedule
-
-Week 1: Introduction and History of VR
-Week 2: VR Technology and Perception
-Week 3: Input Devices and Interaction Techniques
-Week 4: Design Processes and Guidelines in VR
-Week 5-7: Augmented Reality (History, Technology, and Interaction)
-Week 8: Current Research Topics in VR/AR
-Week 9: Project Presentations
+This is the blog for XR class of Yawen and Dimah
 
 ## Related projects
 
@@ -24,6 +14,14 @@ Lab Homework 2: Setup Unity
 
 Lab Homework 3: Roll a ball
 ![Unity Screenshot](https://github.com/XRceci/ClassXR/raw/master/assets/image/23.png)
+
+Lab Homework 4: Roll a ball
+![Image 9](https://github.com/XRceci/ClassXR/raw/master/assets/image/1210/9.png)
+
+Lab Homework 5: Supermarket selection 
+![Image VR_selection-04](https://github.com/XRceci/ClassXR/raw/master/assets/image/250114/VR_selection-04.png)
+
+Lab Homework 6: Supermarket selection 
 
 
 [1]: https://pages.github.com
