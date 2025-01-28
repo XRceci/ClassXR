@@ -13,10 +13,10 @@ Lab 1: Setup Unity
 ![Unity Screenshot](https://github.com/XRceci/ClassXR/raw/master/assets/image/unity.png)
 
 Lab 2: Roll a Ball - 01
-![Unity Screenshot](https://github.com/XRceci/ClassXR/raw/master/assets/image/23.png)
+![Image 9](https://github.com/XRceci/ClassXR/raw/master/assets/image/1210/9.png)
 
 Lab 3: Roll a Ball - 02
-![Image 9](https://github.com/XRceci/ClassXR/raw/master/assets/image/1210/9.png)
+![Unity Screenshot](https://github.com/XRceci/ClassXR/raw/master/assets/image/23.png)
 
 Lab 4: Supermarket Selection 
 ![Image VR_selection-04](https://github.com/XRceci/ClassXR/raw/master/assets/image/250114/VR_selection-04.png)
