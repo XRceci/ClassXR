@@ -9,19 +9,19 @@ This is the blog for XR class of Yawen and Dimah
 
 ## Related projects
 
-Lab Homework 2: Setup Unity
+Lab 1: Setup Unity
 ![Unity Screenshot](https://github.com/XRceci/ClassXR/raw/master/assets/image/unity.png)
 
-Lab Homework 3: Roll a Ball - 01
+Lab 2: Roll a Ball - 01
 ![Unity Screenshot](https://github.com/XRceci/ClassXR/raw/master/assets/image/23.png)
 
-Lab Homework 4: Roll a Ball - 02
+Lab 3: Roll a Ball - 02
 ![Image 9](https://github.com/XRceci/ClassXR/raw/master/assets/image/1210/9.png)
 
-Lab Homework 5: Supermarket Selection 
+Lab 4: Supermarket Selection 
 ![Image VR_selection-04](https://github.com/XRceci/ClassXR/raw/master/assets/image/250114/VR_selection-04.png)
 
-Lab Homework 6: FlyRing Implementation
+Lab 5: FlyRing Implementation
 ![Image 01](https://github.com/XRceci/ClassXR/raw/master/assets/image/250128/01.png)
 
 
