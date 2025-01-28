@@ -8,8 +8,17 @@ mermaid: true
 ---
 
 
-# What is RingSelect ?
-A VR selection technique that allows users to select multiple objects along a ray and bring them closer for inspection in a circular arrangement.
+# What is FlyRing Selection?
+
+Last week, we proposed two VR selection techniques for a supermarket scenario, and we decided to go with FlyRing Selection—sounds cool, right? This technique is all about creating a fancy yet efficient way to select and inspect items in VR.
+
+![Image 08](https://github.com/XRceci/ClassXR/raw/master/assets/image/250114/08.png)
+
+Here's the idea: use a ray to select a group of items from afar, and they magically fly toward you, forming a circular arrangement around you. You can then rotate the circle to examine each item up close, effortlessly and intuitively. It's like having your own futuristic carousel of products at your fingertips!
+
+Now, it's time to bring FlyRing Selection to life. Let's  make it happen! 🚀
+
+
 
 # Implementation
 
